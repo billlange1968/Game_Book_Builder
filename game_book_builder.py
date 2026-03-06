@@ -774,7 +774,7 @@ class App(tk.Tk):
 
 
 HELP_TEXT = """\
-CHOOSE YOUR OWN ADVENTURE BUILDER – QUICK GUIDE
+GAME BOOK STORY BUILDER – QUICK GUIDE
 ================================================
 
 1. STORY METADATA
@@ -829,4 +829,5 @@ if __name__ == "__main__":
 
     app = App()
     app.mainloop()
+
 
