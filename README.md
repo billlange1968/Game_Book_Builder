@@ -2,9 +2,7 @@
 
 This Python GUI app helps you build "Choose Your Own Adventure" style game books. 
 
-
 ## GAME BOOK STORY BUILDER – QUICK GUIDE  
-================================================  
 
 1. STORY METADATA  
    Enter your story title and author name at the top.  
