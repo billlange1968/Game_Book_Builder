@@ -1,5 +1,5 @@
 """
-Choose Your Own Adventure Story Builder
+Game Book Story Builder
 ========================================
 A GUI application for creating branching stories and exporting them as PDFs.
 
@@ -7,7 +7,7 @@ Requirements:
     pip install reportlab
 
 Run:
-    python cyoa_builder.py
+    python game_book_builder.py
 """
 
 import tkinter as tk
@@ -829,3 +829,4 @@ if __name__ == "__main__":
 
     app = App()
     app.mainloop()
+
