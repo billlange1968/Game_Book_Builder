@@ -17,8 +17,7 @@ This Python GUI app helps you build "Choose Your Own Adventure" style game books
 
 3. WRITING A PASSAGE  
    • Give it a short title (optional – used in the PDF heading).  
-   • Write your story text in the large box.  
-     Separate paragraphs with a blank line.  
+   • Write your story text in the large box. Separate paragraphs with a blank line.  
    • Click "Save Passage Changes" or switch passages – it auto-saves.  
 
 4. CHOICES / BRANCHES  
@@ -28,9 +27,7 @@ This Python GUI app helps you build "Choose Your Own Adventure" style game books
    • Passages with NO choices are treated as endings.  
 
 5. EXPORTING TO PDF  
-   • "Export PDF (Randomized)" – shuffles passage order so the page  
-     numbers are unpredictable (classic CYOA feel!). The start passage
-     is always page 1.  
+   • "Export PDF (Randomized)" – shuffles passage order so the page numbers are unpredictable (classic CYOA feel!). The start passage is always page 1.  
    • "Export PDF (In Order)" – passages appear in creation order.  
    • After export you'll see which passage ended up on which page.  
 
@@ -39,8 +36,6 @@ This Python GUI app helps you build "Choose Your Own Adventure" style game books
    • File → Open to reload a saved story.  
 
 ## TIPS  
-----  
 • Plan your story as a flowchart first – sketch nodes and arrows on paper.  
 • Keep passage text 100-300 words for readability.  
-• Test your story by tracing all paths to make sure every branch leads
-  somewhere (or ends intentionally).  
+• Test your story by tracing all paths to make sure every branch leads somewhere (or ends intentionally).  
